@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
-      <mask>**.spec*</mask>
-      <mask>1*.spec*</mask>
-      <mask>*.spect</mask>
       <mask>*.js*</mask>
       <mask>!</mask>
       <mask>!*</mask>
@@ -34,6 +31,9 @@
       <mask>*.spec*!</mask>
       <mask>*.spec*</mask>
       <mask>!*.spec*</mask>
+      <mask>!*.s*</mask>
+      <mask>!*.sc*</mask>
+      <mask>!*.scss*</mask>
     </recentFileMasks>
   </component>
 </application>
