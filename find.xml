@@ -1,39 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
-    <recentFileMasks>
-      <mask>!*spe</mask>
-      <mask>!*spec</mask>
-      <mask>!*spec.</mask>
-      <mask>!*spec.*!</mask>
-      <mask>e*spec.*</mask>
-      <mask>ea*spec.*</mask>
-      <mask>*!spec.*</mask>
-      <mask>!**spec.*</mask>
-      <mask>*spec.*</mask>
-      <mask>!*spec.*</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.spe</mask>
-      <mask>!*.spec!</mask>
-      <mask>!*.spec</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.spec!</mask>
-      <mask>*.spec</mask>
-      <mask>*.spec*!</mask>
-      <mask>!*.sc*</mask>
-      <mask>!*.scss*</mask>
-      <mask>!*.scs*</mask>
-      <mask>!*.s*</mask>
-      <mask>!*.sp*</mask>
-      <mask>!*.spe*</mask>
-      <mask>*.spec*</mask>
-      <mask>!*.spec*</mask>
-    </recentFileMasks>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
