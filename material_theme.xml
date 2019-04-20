@@ -1,15 +1,19 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.6.1" />
-    <option name="highlightColor" value="80cbc4" />
-    <option name="highlightColorEnabled" value="true" />
-    <option name="highlightThickness" value="1" />
-    <option name="isBoldTabs" value="true" />
-    <option name="accentColor" value="80cbc4" />
     <option name="compactSidebar" value="true" />
-    <option name="tabsHeight" value="50" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="upperCaseTabs" value="true" />
-    <option name="darkTitleBar" value="true" />
+    <option name="highlightThickness" value="1" />
+    <option name="tabsHeight" value="50" />
+    <option name="accentColor" value="2979ff" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="userId" value="-5c5eeb20:16a397ce644:-7fff" />
+    <option name="version" value="3.9.1" />
   </component>
 </application>
