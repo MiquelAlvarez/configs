@@ -1,8 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="t" type="JavaScript" />
       <mapping ext="config" type="JavaScript" />
+      <mapping pattern="ImageBox.tsx" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
