@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".linguirc" type="JSON" />
       <mapping pattern="t" type="JavaScript" />
       <mapping ext="config" type="JavaScript" />
       <mapping pattern=".yarnclean" type="PLAIN_TEXT" />
