@@ -1,5 +1,17 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonardevops-internal.rochedc.accentureanalytics.com/" />
+          <option name="name" value="roche" />
+          <option name="login" value="ALVARM43" />
+          <password>df87dfc0dfdddfc9dff3df9edfe0dfccdfccdfc4df87dfc2dff5df84dfc4dfefdf80dfc4dfc3dffa</password>
+          <organizationKey>default-organization</organizationKey>
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules />
   </component>
 </application>
