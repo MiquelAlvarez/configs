@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="scratch.md" type="HTML" />
+      <mapping pattern="twitter_config" type="JSON" />
       <mapping pattern=".linguirc" type="JSON" />
       <mapping pattern="t" type="JavaScript" />
       <mapping ext="config" type="JavaScript" />
