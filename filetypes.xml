@@ -7,6 +7,7 @@
       <mapping pattern="t" type="JavaScript" />
       <mapping ext="config" type="JavaScript" />
       <mapping pattern=".yarnclean" type="PLAIN_TEXT" />
+      <mapping pattern=".dsmrc" type="PLAIN_TEXT" />
       <mapping pattern="ImageBox.tsx" type="TypeScript" />
     </extensionMap>
   </component>
